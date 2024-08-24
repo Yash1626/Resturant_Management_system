@@ -30,4 +30,4 @@ The Restaurant Management System is a command-line interface (CLI) application d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-management-system.git
+   git clone https://github.com/Yash1626/restaurant_management_system.git
